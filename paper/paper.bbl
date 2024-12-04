@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{6}
+\begin{thebibliography}{7}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -105,6 +105,20 @@
 \newblock
 \newblock
 \shownote{Accessed: 2024-12-03}.
+
+
+\bibitem[Tran and Lundgren(2020)]%
+        {9252126}
+\bibfield{author}{\bibinfo{person}{Thanh Tran} {and} \bibinfo{person}{Jan
+  Lundgren}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Drill Fault Diagnosis Based on the Scalogram and
+  Mel Spectrogram of Sound Signals Using Artificial Intelligence}.
+\newblock \bibinfo{journal}{\emph{IEEE Access}}  \bibinfo{volume}{8}
+  (\bibinfo{year}{2020}), \bibinfo{pages}{203655--203666}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/ACCESS.2020.3036769}
+\showDOI{\tempurl}
 
 
 \bibitem[Zaki(2024)]%

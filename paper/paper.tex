@@ -243,7 +243,7 @@ Mel-Frequency Cepstral Coefficients, or MFCCs, are a widely used feature set for
 
 The resulting vector represents spectral acoustic features as floating-point numbers. These values capture essential characteristics of the audio that aid the model in distinguishing between real and fake samples. The vector's size is flexible and depends on user configuration. 
 
-Generating a vector of MFCC features was an essential step in our preprocessing efforts. In our experiments, we used a sampling rate of 22050 Hz, which resulted in 20 features for each audio sample. These features were then saved to a CSV file, making them available for later model training. These features played a pivotal role in the model's ability to make accurate decisions.
+Generating a vector of MFCC features was an essential step in our preprocessing efforts. A sample rate of 44100 Hz corresponding to a maximum sound frequency of 22050 Hz is usually used for recording sound, because a human can hear sounds ranging from 20 Hz to 20000 Hz \cite{9252126}. In our experiments, we used a sampling rate of 22050 Hz. This is half of the common sample rate for recording sound, and is a common value for sampling rate when generating MFCCs. This resulted in 20 features for each audio sample. These features were then saved to a CSV file, making them available for later model training. These features played a pivotal role in the model's ability to make accurate decisions.
 
 \subsection{Mel-Spectrogram Images}
 Nora TODO
