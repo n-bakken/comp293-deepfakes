@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  4 DEC 2024 12:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  4 DEC 2024 12:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1002,26 +1002,18 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 210.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 6.2pt on input line 210.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 238.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 238.
- Processing 'acks' comment.
-\openout3 = `comment.cut'.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 252.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 36.135pt on input line 252.
+LaTeX Font Info:    Calculating math sizes for size <36.135> on input line 252.
 
- Comment 'acks' writing to comment.cut.
-Straight input of comment.cut. (./comment.cut) (./paper.bbl
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 68.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 36.135pt on input line 68.
-LaTeX Font Info:    Calculating math sizes for size <36.135> on input line 68.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 36.135pt on input line 68.
+(Font)              scaled to size 36.135pt on input line 252.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 26.37839pt on input line 68.
+(Font)              scaled to size 26.37839pt on input line 252.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 19.87434pt on input line 68.
+(Font)              scaled to size 19.87434pt on input line 252.
  [1.1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/us
 r/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr
 /local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}
@@ -1029,13 +1021,25 @@ r/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{
 /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/
 usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 98--107
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 253.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 253.
+
+Processing 'acks' comment.
+\openout3 = `comment.cut'.
+
+ Comment 'acks' writing to comment.cut.
+Straight input of comment.cut. (./comment.cut) (./paper.bbl
+LaTeX Info: Redefining \tempurl on input line 80.
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--121
 \T1/LinuxLibertineT-TLF/m/n/7 (+3) have -[] experienced -[] ^^[nancial -[] loss
  -[] due -[] to -[] a -[] deepfake -[] regula -[] report / 732094 / ?utm _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--107
+Underfull \hbox (badness 10000) in paragraph at lines 112--121
 \T1/LinuxLibertineT-TLF/m/n/7 campaign = Yahoo -[] Licensed -[] Content & utm _
  source = yahoo & utm _ medium = referral$[].
  []
@@ -1043,13 +1047,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--107
 )
 
 Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 265.
+surrounding objects on input line 280.
+
+
+Overfull \vbox (1.37703pt too high) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 265.
+(Font)              scaled to size 7.0pt on input line 280.
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 265.
+(hyperref)                removing `subscript' on input line 280.
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
@@ -1066,13 +1074,13 @@ Package rerunfilecheck Info: File `paper.out' has not changed.
 (rerunfilecheck)             Checksum: 8E30939455AAE2F6A5EAD862ED4E6017;1809.
  ) 
 Here is how much of TeX's memory you used:
- 21141 strings out of 474116
- 342020 string characters out of 5743682
- 1972187 words of memory out of 5000000
- 42627 multiletter control sequences out of 15000+600000
- 732343 words of font info for 331 fonts, out of 8000000 for 9000
+ 21178 strings out of 474116
+ 342885 string characters out of 5743682
+ 1970187 words of memory out of 5000000
+ 42633 multiletter control sequences out of 15000+600000
+ 735171 words of font info for 351 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 90i,16n,131p,1002b,746s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,16n,131p,1002b,641s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/libertine/LinBiolinumT
 .pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/libertine/LinBiolin
 umTB.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/libertine/LinBi
@@ -1081,10 +1089,10 @@ inLibertineT.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/liberti
 ne/LinLibertineTB.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/li
 bertine/LinLibertineTI.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/publ
 ic/newtx/txsys.pfb>
-Output written on paper.pdf (2 pages, 419665 bytes).
+Output written on paper.pdf (2 pages, 421368 bytes).
 PDF statistics:
- 164 PDF objects out of 1000 (max. 8388607)
- 139 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
+ 168 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
  102529 words of extra memory for PDF output out of 106986 (max. 10000000)
 

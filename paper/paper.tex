@@ -226,9 +226,24 @@ These are just a few of many examples of individuals who have been hurt by deepf
 \section{Literature Review}
 
 \section{System Model / Background}
-Numerous technologies and algorithms were explored to gather insights on the strongest contenders for deepfake audio detection. In this section we will explore the complex features we utilized in the preprocessing of our data, and discuss some of the complex machine learning models we employed in our experiments. 
+
+Numerous technologies and algorithms were explored to gather insights on the most effective methods for deepfake audio detection. In this section we will explore the complex features we utilized in our data preprocessing pipeline and discuss the sophisticated machine learning models we employed in our experiments. 
+
 \subsection{MFCCs}
-Mel-Frequency Cepstral Coefficients, or MFCCs, are a widely used feature set for speech recognition and other audio processing applications. They are a competitive feature set because they mimic what the human ear is able to perceive \cite{9996362}. 
+
+Mel-Frequency Cepstral Coefficients, or MFCCs, are a widely used feature set for speech recognition and other audio processing applications. They are a competitive feature set because they mimic what the human ear perceives \cite{9996362}. 
+
+\begin{quote}
+  "MFCC coefficients are obtained by de-correlating the output log
+  energies of a filter bank which consists of triangular filters, linearly spaced on the Mel frequency scale.
+  Conventionally an implementation of discrete cosine transform (DCT) known as distributed DCT (DCT - II) is
+  used to de-correlate the speech as it is the best available approximation of the Karhunen-Loeve Transform
+  (KLT)" \cite{5709752}.
+\end{quote}
+
+The resulting vector represents spectral acoustic features as floating-point numbers. These values capture essential characteristics of the audio that aid the model in distinguishing between real and fake samples. The vector's size is flexible and depends on user configuration. 
+
+Generating a vector of MFCC features was an essential step in our preprocessing efforts. In our experiments, we used a sampling rate of 22050 Hz, which resulted in 20 features for each audio sample. These features were then saved to a CSV file, making them available for later model training. These features played a pivotal role in the model's ability to make accurate decisions.
 
 \subsection{Mel-Spectrogram Images}
 Nora TODO

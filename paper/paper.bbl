@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{5}
+\begin{thebibliography}{6}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -64,6 +64,20 @@
 \newblock
 \urldef\tempurl%
 \url{https://doi.org/10.1109/ACCESS.2022.3231480}
+\showDOI{\tempurl}
+
+
+\bibitem[Hossan et~al\mbox{.}(2010)]%
+        {5709752}
+\bibfield{author}{\bibinfo{person}{Md.~Afzal Hossan}, \bibinfo{person}{Sheeraz
+  Memon}, {and} \bibinfo{person}{Mark~A Gregory}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{A novel approach for MFCC feature extraction}. In
+  \bibinfo{booktitle}{\emph{2010 4th International Conference on Signal
+  Processing and Communication Systems}}. \bibinfo{pages}{1--5}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/ICSPCS.2010.5709752}
 \showDOI{\tempurl}
 
 
