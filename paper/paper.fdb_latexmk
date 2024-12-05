@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex paper"] 1733417262.44594 "paper.aux" "paper.bbl" "paper" 1733417264.99644 0
+["bibtex paper"] 1733417262.44594 "paper.aux" "paper.bbl" "paper" 1733421781.18923 0
   "./sample.bib" 1733348957.21785 3858 dcc8716b5f32fbb9bc78ad5287dfe3a1 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/acmart/ACM-Reference-Format.bst" 1680299675 90332 18dc4e5c9b5c2ddd337e9f97727d04f1 ""
-  "paper.aux" 1733417264.39018 4861 8327e83778b3d476c9f3914014a42667 "pdflatex"
+  "paper.aux" 1733421780.56117 4861 8327e83778b3d476c9f3914014a42667 "pdflatex"
   (generated)
   "paper.bbl"
   "paper.blg"
   (rewritten before read)
-["pdflatex"] 1733417262.65271 "paper.tex" "paper.pdf" "paper" 1733417264.99666 0
+["pdflatex"] 1733421778.70899 "paper.tex" "paper.pdf" "paper" 1733421781.18942 0
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490131464 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490131464 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1490131464 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
@@ -202,15 +202,15 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1733341587.79037 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1733341517 8221421 a3ddc6931ce09525302e5c5846822190 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "comment.cut" 1733417264.28021 1 68b329da9893e34099c7d8ad5cb9c940 "pdflatex"
+  "comment.cut" 1733421780.45086 1 68b329da9893e34099c7d8ad5cb9c940 "pdflatex"
   "images/fake_spectrogram.png" 1733354644.76425 57258 4c0ee98f23d29b78ab3b60f649f84b00 ""
   "images/fake_waveform.png" 1733354644.77134 41880 5d6b442c034cb6f3c03d01a6f082feb8 ""
   "images/real_spectrogram.png" 1733354648.92783 134013 ac9c61f5843e4bdd045b39650230d18e ""
   "images/real_waveform.png" 1733354648.93365 34026 780d9ca06c3387e5eb8f4fbb7beba5f6 ""
-  "paper.aux" 1733417264.39018 4861 8327e83778b3d476c9f3914014a42667 "pdflatex"
+  "paper.aux" 1733421780.56117 4861 8327e83778b3d476c9f3914014a42667 "pdflatex"
   "paper.bbl" 1733417262.64862 5414 ed3607ca90bcc8ae99d93a2ecc59cc9e "bibtex paper"
-  "paper.out" 1733417264.39119 3424 60dfadaaf5aeac8163b4ff998da522bd "pdflatex"
-  "paper.tex" 1733417253.95482 16013 1eb46be5dc3342c8ccc2164d256d6af5 ""
+  "paper.out" 1733421780.56214 3424 60dfadaaf5aeac8163b4ff998da522bd "pdflatex"
+  "paper.tex" 1733417306.14532 16012 04f6204e8d8c0f4a5857c1a701cfa769 ""
   (generated)
   "comment.cut"
   "paper.aux"
