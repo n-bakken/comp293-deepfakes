@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  4 DEC 2024 22:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  5 DEC 2024 08:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1021,56 +1021,58 @@ r/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{
 /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/
 usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}]
-Overfull \hbox (13.19714pt too wide) in paragraph at lines 251--252
+<images/real_waveform.png, id=138, 619.3539pt x 284.0211pt>
+File: images/real_waveform.png Graphic file (type png)
+<use images/real_waveform.png>
+Package pdftex.def Info: images/real_waveform.png  used on input line 253.
+(pdftex.def)             Requested size: 241.14749pt x 110.58575pt.
+
+
+Class acmart Warning: A possible image without description on input line 256.
+
+<images/fake_waveform.png, id=140, 619.3539pt x 284.0211pt>
+File: images/fake_waveform.png Graphic file (type png)
+<use images/fake_waveform.png>
+Package pdftex.def Info: images/fake_waveform.png  used on input line 260.
+(pdftex.def)             Requested size: 241.14749pt x 110.58575pt.
+
+Class acmart Warning: A possible image without description on input line 263.
+
+
+Overfull \hbox (13.19714pt too wide) in paragraph at lines 265--266
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) quency spec-trum varies over time. Sim-i-la
 r to MFCCs, Mel-Spectrograms
  []
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 261.
+(Font)              scaled to size 7.3pt on input line 275.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 261.
-<images/real_waveform.png, id=142, 619.3539pt x 284.0211pt>
-File: images/real_waveform.png Graphic file (type png)
-<use images/real_waveform.png>
-Package pdftex.def Info: images/real_waveform.png  used on input line 266.
-(pdftex.def)             Requested size: 241.14749pt x 110.58575pt.
-
-Class acmart Warning: A possible image without description on input line 269.
-
-<images/fake_waveform.png, id=144, 619.3539pt x 284.0211pt>
-File: images/fake_waveform.png Graphic file (type png)
-<use images/fake_waveform.png>
-Package pdftex.def Info: images/fake_waveform.png  used on input line 273.
-(pdftex.def)             Requested size: 241.14749pt x 110.58575pt.
-
-Class acmart Warning: A possible image without description on input line 276.
-
-<images/real_spectrogram.png, id=145, 590.4459pt x 284.0211pt>
+(Font)              scaled to size 5.5pt on input line 275.
+<images/real_spectrogram.png, id=149, 590.4459pt x 284.0211pt>
 File: images/real_spectrogram.png Graphic file (type png)
 <use images/real_spectrogram.png>
-Package pdftex.def Info: images/real_spectrogram.png  used on input line 280.
+Package pdftex.def Info: images/real_spectrogram.png  used on input line 282.
 (pdftex.def)             Requested size: 241.14749pt x 115.99869pt.
 
-Class acmart Warning: A possible image without description on input line 283.
+Class acmart Warning: A possible image without description on input line 285.
 
-<images/fake_spectrogram.png, id=146, 590.4459pt x 284.0211pt>
+<images/fake_spectrogram.png, id=150, 590.4459pt x 284.0211pt>
 File: images/fake_spectrogram.png Graphic file (type png)
 <use images/fake_spectrogram.png>
-Package pdftex.def Info: images/fake_spectrogram.png  used on input line 287.
+Package pdftex.def Info: images/fake_spectrogram.png  used on input line 289.
 (pdftex.def)             Requested size: 241.14749pt x 115.99869pt.
 
-Class acmart Warning: A possible image without description on input line 290.
+Class acmart Warning: A possible image without description on input line 292.
 
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 296.
+(Font)              scaled to size 9.0pt on input line 298.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 296.
+(Font)              scaled to size 9.0pt on input line 298.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1024) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 322.
+(Font)              scaled to size 7.0pt on input line 324.
  [2.2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.
 enc} <./images/real_waveform.png> <./images/fake_waveform.png> <./images/real_s
 pectrogram.png> <./images/fake_spectrogram.png>] Processing 'acks' comment.
@@ -1099,11 +1101,11 @@ Class acmart Warning: Some images may lack descriptions.
 
 
 Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 340.
+surrounding objects on input line 342.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 340.
+(hyperref)                removing `subscript' on input line 342.
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
@@ -1120,11 +1122,11 @@ Package rerunfilecheck Info: File `paper.out' has not changed.
 (rerunfilecheck)             Checksum: 60DFADAAF5AEAC8163B4FF998DA522BD;3424.
  ) 
 Here is how much of TeX's memory you used:
- 21290 strings out of 474116
- 345499 string characters out of 5743682
+ 21293 strings out of 474116
+ 345571 string characters out of 5743682
  1972187 words of memory out of 5000000
  42688 multiletter control sequences out of 15000+600000
- 750084 words of font info for 379 fonts, out of 8000000 for 9000
+ 750357 words of font info for 381 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  90i,16n,131p,1002b,640s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.
@@ -1138,10 +1140,10 @@ libertine/LinLibertineTI.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pu
 blic/newtx/txexs.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/new
 tx/txmiaX.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/txsy
 s.pfb>
-Output written on paper.pdf (3 pages, 643410 bytes).
+Output written on paper.pdf (3 pages, 644313 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
- 213 compressed objects within 3 object streams
+ 259 PDF objects out of 1000 (max. 8388607)
+ 217 compressed objects within 3 object streams
  46 named destinations out of 1000 (max. 500000)
  110805 words of extra memory for PDF output out of 128383 (max. 10000000)
 
