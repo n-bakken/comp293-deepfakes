@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  4 DEC 2024 15:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  4 DEC 2024 17:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1025,7 +1025,7 @@ r/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{
 /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/
 usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}]
-<images/real_waveform.png, id=136, 619.3539pt x 284.0211pt>
+<images/real_waveform.png, id=138, 619.3539pt x 284.0211pt>
 File: images/real_waveform.png Graphic file (type png)
 <use images/real_waveform.png>
 Package pdftex.def Info: images/real_waveform.png  used on input line 253.
@@ -1034,7 +1034,7 @@ Package pdftex.def Info: images/real_waveform.png  used on input line 253.
 
 Class acmart Warning: A possible image without description on input line 256.
 
-<images/fake_waveform.png, id=138, 619.3539pt x 284.0211pt>
+<images/fake_waveform.png, id=140, 619.3539pt x 284.0211pt>
 File: images/fake_waveform.png Graphic file (type png)
 <use images/fake_waveform.png>
 Package pdftex.def Info: images/fake_waveform.png  used on input line 260.
@@ -1042,7 +1042,7 @@ Package pdftex.def Info: images/fake_waveform.png  used on input line 260.
 
 Class acmart Warning: A possible image without description on input line 263.
 
-<images/real_spectrogram.png, id=139, 590.4459pt x 284.0211pt>
+<images/real_spectrogram.png, id=141, 590.4459pt x 284.0211pt>
 File: images/real_spectrogram.png Graphic file (type png)
 <use images/real_spectrogram.png>
 Package pdftex.def Info: images/real_spectrogram.png  used on input line 267.
@@ -1050,7 +1050,7 @@ Package pdftex.def Info: images/real_spectrogram.png  used on input line 267.
 
 Class acmart Warning: A possible image without description on input line 270.
 
-<images/fake_spectrogram.png, id=140, 590.4459pt x 284.0211pt>
+<images/fake_spectrogram.png, id=142, 590.4459pt x 284.0211pt>
 File: images/fake_spectrogram.png Graphic file (type png)
 <use images/fake_spectrogram.png>
 Package pdftex.def Info: images/fake_spectrogram.png  used on input line 274.
@@ -1116,7 +1116,7 @@ Package rerunfilecheck Info: File `paper.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  21253 strings out of 474116
- 344667 string characters out of 5743682
+ 344670 string characters out of 5743682
  1972187 words of memory out of 5000000
  42681 multiletter control sequences out of 15000+600000
  736358 words of font info for 360 fonts, out of 8000000 for 9000
@@ -1130,10 +1130,10 @@ inLibertineT.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/liberti
 ne/LinLibertineTB.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/li
 bertine/LinLibertineTI.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/publ
 ic/newtx/txsys.pfb>
-Output written on paper.pdf (3 pages, 617429 bytes).
+Output written on paper.pdf (3 pages, 617631 bytes).
 PDF statistics:
- 226 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
+ 228 PDF objects out of 1000 (max. 8388607)
+ 194 compressed objects within 2 object streams
  44 named destinations out of 1000 (max. 500000)
  102613 words of extra memory for PDF output out of 106986 (max. 10000000)
 
