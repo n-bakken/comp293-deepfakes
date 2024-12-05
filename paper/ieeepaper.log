@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  5 DEC 2024 08:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  5 DEC 2024 14:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -304,103 +304,142 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 57.
-
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
-
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 57.
-
-
-LaTeX Warning: Reference `AA' on page 1 undefined on input line 88.
-
-
-LaTeX Warning: Reference `SCM' on page 1 undefined on input line 88.
-
-
-LaTeX Warning: Reference `eq' on page 1 undefined on input line 122.
-
-
-LaTeX Warning: Reference `eq' on page 1 undefined on input line 122.
-
-
-LaTeX Warning: Reference `eq' on page 1 undefined on input line 122.
-
-
-LaTeX Warning: Reference `eq' on page 1 undefined on input line 123.
+Underfull \hbox (badness 1521) in paragraph at lines 48--49
+[]\OT1/ptm/m/n/10 The Amer-i-can Bar As-so-ci-a-tion high-lighted a tar-geted
+ []
 
 [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/l
 ocal/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
 ]
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
-27.
+<images/real_waveform.png, id=10, 619.3539pt x 284.0211pt>
+File: images/real_waveform.png Graphic file (type png)
+<use images/real_waveform.png>
+Package pdftex.def Info: images/real_waveform.png  used on input line 83.
+(pdftex.def)             Requested size: 252.0pt x 115.56096pt.
+<images/fake_waveform.png, id=12, 619.3539pt x 284.0211pt>
+File: images/fake_waveform.png Graphic file (type png)
+<use images/fake_waveform.png>
+Package pdftex.def Info: images/fake_waveform.png  used on input line 90.
+(pdftex.def)             Requested size: 252.0pt x 115.56096pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 98.
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-
-LaTeX Warning: Citation `b7' on page 2 undefined on input line 176.
-
-
-LaTeX Warning: Reference `fig' on page 2 undefined on input line 212.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 98.
 
 
-LaTeX Warning: File `fig1.png' not found on input line 232.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<images/real_spectrogram.png, id=13, 590.4459pt x 284.0211pt>
+File: images/real_spectrogram.png Graphic file (type png)
+<use images/real_spectrogram.png>
+Package pdftex.def Info: images/real_spectrogram.png  used on input line 112.
+(pdftex.def)             Requested size: 252.0pt x 121.21658pt.
+<images/fake_spectrogram.png, id=14, 590.4459pt x 284.0211pt>
+File: images/fake_spectrogram.png Graphic file (type png)
+<use images/fake_spectrogram.png>
+Package pdftex.def Info: images/fake_spectrogram.png  used on input line 119.
+(pdftex.def)             Requested size: 252.0pt x 121.21658pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-! Package pdftex.def Error: File `fig1.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.232 \centerline{\includegraphics{fig1.png}}
-                                             
+ [2 <./images/real_waveform.png> <./images/fake_waveform.png> <./images/real_sp
+ectrogram.png> <./images/fake_spectrogram.png>] (./ieeepaper.bbl
+! Missing $ inserted.
+<inserted text> 
+                $
+l.26 ...g/deepfake-defense-evidentiary-conundrum/}
+                                                  ,
 ? 
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 2
-43.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.28 
+     
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.28 
+     
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+[]\OT1/ptm/m/n/8 J. Dixon, Her-bert B., ``The \deep-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+\OT1/ptm/m/n/8 fake de-fense": An ev-i-den-tiary co-nun-drum,''
+ []
+
+
+Overfull \hbox (94.60403pt too wide) in paragraph at lines 25--28
+\OT1/ptm/m/n/8 https://www.americanbar.org/groups/judicial/publications/judges$
+[]\OML/cmm/m/it/8 ournal=\OT1/cmr/m/n/8 2024\OML/cmm/m/it/8 =spring=deepfake \O
+MS/cmsy/m/n/8 ^^@
+ []
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.28 
+     
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+\OT1/ptm/m/n/8 korea-rise-of-explicit-deepfakes-wrecks-womens-lives-and-deepens
+-gender-
+ []
+
+
+Underfull \hbox (badness 3872) in paragraph at lines 36--40
+\OT1/ptm/m/n/8 voters-said-deepfakes-had-some-influence-election-decision, Oc-t
+o-ber 2024,
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.44 ...nt\&utm_source=yahoo\&utm_medium=referral}
+                                                  ,
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.46 
+     
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.46 
+     
+? 
+
+Underfull \hbox (badness 3219) in paragraph at lines 42--46
+\OT1/ptm/m/n/8 a deep-fake,'' https://www.cfo.com/news/most-companies-have-expe
+rienced-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--46
+\OT1/ptm/m/n/8 financial-loss-due-to-a-deepfake-regula-report/732094/?utm$[]\OM
+L/cmm/m/it/8 ampaign \OT1/cmr/m/n/8 =
+ []
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.46 
+     
+? 
 )
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 243.
- [2]
-
-LaTeX Warning: Citation `b1' on page 3 undefined on input line 256.
-
-
-LaTeX Warning: Citation `b2' on page 3 undefined on input line 257.
-
-
-LaTeX Warning: Citation `b3' on page 3 undefined on input line 258.
-
-
-LaTeX Warning: Citation `b3' on page 3 undefined on input line 258.
-
-
-LaTeX Warning: Citation `b3' on page 3 undefined on input line 258.
-
-
-LaTeX Warning: Citation `b3' on page 3 undefined on input line 259.
-
-
-LaTeX Warning: Citation `b4' on page 3 undefined on input line 267.
-
-
-LaTeX Warning: Citation `b5' on page 3 undefined on input line 268.
-
-
-LaTeX Warning: Citation `b6' on page 3 undefined on input line 273.
-
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -412,42 +451,39 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3] (./ieeepaper.aux)
+[3
+
+] (./ieeepaper.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 4312 strings out of 474116
- 67407 string characters out of 5743682
- 1947187 words of memory out of 5000000
- 26619 multiletter control sequences out of 15000+600000
- 609174 words of font info for 137 fonts, out of 8000000 for 9000
+ 4214 strings out of 474116
+ 66424 string characters out of 5743682
+ 1941187 words of memory out of 5000000
+ 26538 multiletter control sequences out of 15000+600000
+ 593371 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,584b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></us
-r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/l
-ocal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
-cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/loca
-l/texlive/2024/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texliv
-e/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/tex
-mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dist/f
-onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1
-/urw/times/utmri8a.pfb>
-Output written on ieeepaper.pdf (3 pages, 133197 bytes).
+ 57i,8n,65p,909b,259s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
+r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loc
+al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
+texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
+exlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
+live/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/
+texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dis
+t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on ieeepaper.pdf (3 pages, 343938 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
