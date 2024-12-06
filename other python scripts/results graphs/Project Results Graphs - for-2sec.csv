@@ -1,0 +1,5 @@
+Algorithm,Accuracy,Precision (Real),Precision (Fake),Recall (Real),Recall (Fake),F1-Score (Real),F1-Score (Fake)
+ResNet50,0.7429,0.67,0.92,0.95,0.53,0.79,0.67
+VGG16,0.7062,0.64,0.91,0.96,0.46,0.76,0.61
+SVM,0.9968,0.99,0.99,0.99,0.99,0.99,0.99
+Gradient Boosting,0.9631,0.97,0.95,0.95,0.98,0.96,0.96
