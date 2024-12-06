@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  5 DEC 2024 21:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  6 DEC 2024 10:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -346,7 +346,33 @@ File: images/fake_spectrogram.png Graphic file (type png)
 Package pdftex.def Info: images/fake_spectrogram.png  used on input line 119.
 (pdftex.def)             Requested size: 252.0pt x 121.21658pt.
  [2 <./images/real_waveform.png> <./images/fake_waveform.png> <./images/real_sp
-ectrogram.png> <./images/fake_spectrogram.png>] (./ieeepaper.bbl
+ectrogram.png> <./images/fake_spectrogram.png>]
+<images/performance_metrics_for-original.csv.png, id=27, 715.473pt x 425.4294pt
+>
+File: images/performance_metrics_for-original.csv.png Graphic file (type png)
+<use images/performance_metrics_for-original.csv.png>
+Package pdftex.def Info: images/performance_metrics_for-original.csv.png  used 
+on input line 141.
+(pdftex.def)             Requested size: 252.0pt x 149.8373pt.
+<images/performance_metrics_for-norm.csv.png, id=28, 715.473pt x 425.4294pt>
+File: images/performance_metrics_for-norm.csv.png Graphic file (type png)
+<use images/performance_metrics_for-norm.csv.png>
+Package pdftex.def Info: images/performance_metrics_for-norm.csv.png  used on i
+nput line 150.
+(pdftex.def)             Requested size: 252.0pt x 149.8373pt.
+<images/performance_metrics_for-2sec.csv.png, id=29, 715.473pt x 425.4294pt>
+File: images/performance_metrics_for-2sec.csv.png Graphic file (type png)
+<use images/performance_metrics_for-2sec.csv.png>
+Package pdftex.def Info: images/performance_metrics_for-2sec.csv.png  used on i
+nput line 159.
+(pdftex.def)             Requested size: 252.0pt x 149.8373pt.
+<images/performance_metrics_for-rerec.csv.png, id=30, 715.473pt x 425.4294pt>
+File: images/performance_metrics_for-rerec.csv.png Graphic file (type png)
+<use images/performance_metrics_for-rerec.csv.png>
+Package pdftex.def Info: images/performance_metrics_for-rerec.csv.png  used on 
+input line 168.
+(pdftex.def)             Requested size: 252.0pt x 149.8373pt.
+ (./ieeepaper.bbl
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -394,7 +420,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--34
 -gender-
  []
 
-
+[3 <./images/performance_metrics_for-original.csv.png> <./images/performance_me
+trics_for-norm.csv.png> <./images/performance_metrics_for-2sec.csv.png> <./imag
+es/performance_metrics_for-rerec.csv.png>]
 Underfull \hbox (badness 3872) in paragraph at lines 36--40
 \OT1/ptm/m/n/8 voters-said-deepfakes-had-some-influence-election-decision, Oc-t
 o-ber 2024,
@@ -448,17 +476,23 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3] (./ieeepaper.aux)
+[4
+
+] (./ieeepaper.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 4215 strings out of 474116
- 66444 string characters out of 5743682
+ 4247 strings out of 474116
+ 68016 string characters out of 5743682
  1942187 words of memory out of 5000000
- 26539 multiletter control sequences out of 15000+600000
+ 26571 multiletter control sequences out of 15000+600000
  593371 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,1066b,259s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -475,10 +509,10 @@ live/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/
 texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dis
 t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/ty
 pe1/urw/times/utmri8a.pfb>
-Output written on ieeepaper.pdf (3 pages, 348475 bytes).
+Output written on ieeepaper.pdf (4 pages, 813104 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 100 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
