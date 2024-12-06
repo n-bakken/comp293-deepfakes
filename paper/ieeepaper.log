@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  5 DEC 2024 14:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  5 DEC 2024 20:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -346,10 +346,12 @@ File: images/fake_spectrogram.png Graphic file (type png)
 Package pdftex.def Info: images/fake_spectrogram.png  used on input line 119.
 (pdftex.def)             Requested size: 252.0pt x 121.21658pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2 <./images/real_waveform.png> <./images/fake_waveform.png> <./images/real_sp
-ectrogram.png> <./images/fake_spectrogram.png>] (./ieeepaper.bbl
+LaTeX Warning: Citation `wu2017introduction' on page 2 undefined on input line 
+125.
+
+[2 <./images/real_waveform.png> <./images/fake_waveform.png> <./images/real_spe
+ctrogram.png> <./images/fake_spectrogram.png>] (./ieeepaper.bbl
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -368,16 +370,6 @@ l.28
 l.28 
      
 ? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--28
-[]\OT1/ptm/m/n/8 J. Dixon, Her-bert B., ``The \deep-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--28
-\OT1/ptm/m/n/8 fake de-fense": An ev-i-den-tiary co-nun-drum,''
- []
-
 
 Overfull \hbox (94.60403pt too wide) in paragraph at lines 25--28
 \OT1/ptm/m/n/8 https://www.americanbar.org/groups/judicial/publications/judges$
@@ -406,7 +398,19 @@ o-ber 2024,
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.44 ...nt\&utm_source=yahoo\&utm_medium=referral}
+l.44 ...tent&utm_source=yahoo&utm_medium=referral}
+                                                  ,
+? 
+! Misplaced alignment tab character &.
+<argument> ...utm_campaign=Yahoo-Licensed-Content&
+                                                  utm_source=yahoo&utm_mediu...
+l.44 ...tent&utm_source=yahoo&utm_medium=referral}
+                                                  ,
+? 
+! Misplaced alignment tab character &.
+<argument> ...o-Licensed-Content&utm_source=yahoo&
+                                                  utm_medium=referral
+l.44 ...tent&utm_source=yahoo&utm_medium=referral}
                                                   ,
 ? 
 ! Missing $ inserted.
@@ -458,13 +462,17 @@ Before submitting the final camera ready copy, remember to:
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 4214 strings out of 474116
- 66424 string characters out of 5743682
+ 4216 strings out of 474116
+ 66450 string characters out of 5743682
  1941187 words of memory out of 5000000
- 26538 multiletter control sequences out of 15000+600000
- 593371 words of font info for 105 fonts, out of 8000000 for 9000
+ 26539 multiletter control sequences out of 15000+600000
+ 594478 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,909b,259s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
@@ -480,7 +488,7 @@ live/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/
 texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dis
 t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/ty
 pe1/urw/times/utmri8a.pfb>
-Output written on ieeepaper.pdf (3 pages, 343938 bytes).
+Output written on ieeepaper.pdf (3 pages, 344530 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream
