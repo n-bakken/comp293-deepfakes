@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  5 DEC 2024 20:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  5 DEC 2024 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -371,6 +371,16 @@ l.28
      
 ? 
 
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+[]\OT1/ptm/m/n/8 J. Dixon, Her-bert B., ``The \deep-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+\OT1/ptm/m/n/8 fake de-fense": An ev-i-den-tiary co-nun-drum,''
+ []
+
+
 Overfull \hbox (94.60403pt too wide) in paragraph at lines 25--28
 \OT1/ptm/m/n/8 https://www.americanbar.org/groups/judicial/publications/judges$
 []\OML/cmm/m/it/8 ournal=\OT1/cmr/m/n/8 2024\OML/cmm/m/it/8 =spring=deepfake \O
@@ -398,19 +408,7 @@ o-ber 2024,
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.44 ...tent&utm_source=yahoo&utm_medium=referral}
-                                                  ,
-? 
-! Misplaced alignment tab character &.
-<argument> ...utm_campaign=Yahoo-Licensed-Content&
-                                                  utm_source=yahoo&utm_mediu...
-l.44 ...tent&utm_source=yahoo&utm_medium=referral}
-                                                  ,
-? 
-! Misplaced alignment tab character &.
-<argument> ...o-Licensed-Content&utm_source=yahoo&
-                                                  utm_medium=referral
-l.44 ...tent&utm_source=yahoo&utm_medium=referral}
+l.44 ...nt\&utm_source=yahoo\&utm_medium=referral}
                                                   ,
 ? 
 ! Missing $ inserted.
@@ -466,6 +464,9 @@ L3 programming layer <2024-02-20>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
  4216 strings out of 474116
@@ -488,7 +489,7 @@ live/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/
 texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dis
 t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/ty
 pe1/urw/times/utmri8a.pfb>
-Output written on ieeepaper.pdf (3 pages, 344530 bytes).
+Output written on ieeepaper.pdf (3 pages, 344151 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream
