@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  5 DEC 2024 21:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  5 DEC 2024 21:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -448,9 +448,7 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3
-
-] (./ieeepaper.aux)
+[3] (./ieeepaper.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -459,11 +457,11 @@ L3 programming layer <2024-02-20>
 Here is how much of TeX's memory you used:
  4215 strings out of 474116
  66444 string characters out of 5743682
- 1941187 words of memory out of 5000000
+ 1942187 words of memory out of 5000000
  26539 multiletter control sequences out of 15000+600000
  593371 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,65p,909b,259s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,8n,65p,1068b,259s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></
@@ -477,7 +475,7 @@ live/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/
 texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dis
 t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/ty
 pe1/urw/times/utmri8a.pfb>
-Output written on ieeepaper.pdf (3 pages, 344360 bytes).
+Output written on ieeepaper.pdf (3 pages, 348480 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream
