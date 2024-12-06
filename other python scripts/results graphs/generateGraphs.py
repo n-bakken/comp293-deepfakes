@@ -1,7 +1,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-filename = 'Project Results Graphs - for-rerec.csv'
+#filename = 'for-rerec.csv'
+filename = 'for-original.csv'
+#filename = 'for-norm.csv'
+#filename = 'for-2sec.csv'
 
 df = pd.read_csv(filename)
 
@@ -29,11 +32,12 @@ for i, metric in enumerate(metrics):
 ax.set_xticks([pos + 0.3 for pos in x])
 ax.set_xticklabels(df['Algorithm'])
 ax.set_ylabel('Score')
-ax.set_title('Performance Metrics by Algorithm')
+newname = filename[:-4]
+ax.set_title(f'Performance Metrics for {newname}')
 ax.legend(title='Metric')
 
 # Set the y-axis limits to zoom in
-ax.set_ylim(0.5, 1.00001)  # Adjust the range as needed
+ax.set_ylim(0.95, 1.00001)  # Adjust the range as needed
 
 plt.tight_layout()
 # Save the plot to a file instead of showing it
